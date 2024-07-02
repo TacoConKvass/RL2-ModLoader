@@ -4,7 +4,7 @@
 [Oo]bj
 
 # Setup tool config
-RL2.ModLoader.Setup/config
+RL2.ModLoader.DevSetup/config
 
 # Sublime text project
 *.sublime-workspace
